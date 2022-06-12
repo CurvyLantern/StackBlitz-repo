@@ -1,0 +1,21 @@
+{
+  "name": "vite-vue-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pinia": "^2.0.14",
+    "vue": "^3.2.36"
+  },
+  "devDependencies": {
+    "@unocss/preset-mini": "^0.38.2",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "unocss": "^0.38.2",
+    "vite": "^2.9.9"
+  }
+}
